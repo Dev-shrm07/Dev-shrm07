@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋<br>I'm a 2024 graduate from DTU 🎓, I am passionate about machine learning and data science.<br>I enjoy building web apps 🌐 and making tools for different use cases, along with problem solving.<br>My research interests include exploring the use cases of deep learning and reinforcement learning in different problems.<br><br>Outside of work, I enjoy traveling ✈️, swimming 🏊‍♂️, cycling 🚴‍♂️, and diving into history 📜 and physics 🪐.<br>Always curious and eager to learn—let's connect! 🚀
+Hi there! 👋<br>I'm a 2024 graduate from DTU 🎓, I am passionate about software engineering and machine learning.<br>I enjoy building web apps 🌐 and making tools for different use cases, along with problem solving.<br>My research interests include exploring the use cases of deep learning and reinforcement learning in different problems.<br><br>Outside of work, I enjoy traveling ✈️, swimming 🏊‍♂️, cycling 🚴‍♂️, and diving into history 📜 and physics 🪐.<br>Always curious and eager to learn—let's connect! 🚀
 
 
 ## 🌐 Socials:
