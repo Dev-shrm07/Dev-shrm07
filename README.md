@@ -1,5 +1,15 @@
 # 💫 About Me:
-Hi there! 👋<br>I'm a 2024 graduate from DTU 🎓, I am passionate about software engineering and machine learning.<br>I enjoy building web apps 🌐 and making tools for different use cases, along with problem solving.<br>My research interests include exploring the use cases of deep learning and reinforcement learning in different problems.<br><br>Outside of work, I enjoy traveling ✈️, swimming 🏊‍♂️, cycling 🚴‍♂️, and diving into history 📜 and physics 🪐.<br>Always curious and eager to learn—let's connect! 🚀
+
+Hi there! 👋
+I'm Kavya, Data Scientist and a 2024 Graduate from Delhi Technological University 🎓, passionate about **Data Science, Machine Learning, and AI**. I love turning raw data into meaningful insights 📊 and building intelligent systems that solve real-world problems.
+
+I enjoy developing **end-to-end ML pipelines** 🔁, experimenting with deep learning architectures 🧠, and crafting data-driven web apps that bring AI to life 🌐. My research interests revolve around **deep learning, reinforcement learning, and predictive modeling** — always exploring how data can unlock smarter decisions.
+
+I'm also drawn to the intersection of **AI and data insights** — whether it's building dashboards, mining patterns from complex datasets, or pushing the boundaries of what models can do 🚀.
+
+Outside of work, I enjoy traveling ✈️, swimming 🏊‍♂️, cycling 🚴‍♂️, and diving into history 📜 and physics 🪐 — because curiosity doesn't stop at the terminal!
+
+Always learning, always building — let's connect! 🤝
 
 
 ## 🌐 Socials:
